@@ -1,8 +1,8 @@
 
 
 const Apis = {
-    PROD : "http://localhost:8989/api/v1/products",
-    auth : "http://localhost:8989/api/v1/users"
+    PROD : "https://mern-amazonlite.onrender.com/api/v1/products",
+    auth : "https://mern-amazonlite.onrender.com/api/v1/users"
 }
 
 
